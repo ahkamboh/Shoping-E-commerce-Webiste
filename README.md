@@ -1,6 +1,6 @@
 # Shoping-E-commerce-Webiste! || design and code by ahkamboh || Ali Hamza Kamboh
 
-#Output!
+# Output
 
 DESKTOP VEIW
 [DESKTOP VEIW](https://user-images.githubusercontent.com/123060177/227790216-7156cf5f-1931-4736-b41c-a09a414865ee.png)
@@ -17,4 +17,4 @@ Footer
 Product Page
 ![product page](https://user-images.githubusercontent.com/123060177/227790687-f886f575-c536-4830-82fc-7c82b7df15d9.png)
 
-#Thank For Yours time here.
+ # Thank For Yours time here
