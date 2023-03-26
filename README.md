@@ -2,7 +2,7 @@
 
 # Output
 
-#DESKTOP VEIW
+# DESKTOP VEIW
 
 [DESKTOP VEIW](https://user-images.githubusercontent.com/123060177/227790216-7156cf5f-1931-4736-b41c-a09a414865ee.png)
 
