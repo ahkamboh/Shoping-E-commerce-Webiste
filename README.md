@@ -5,7 +5,9 @@ Design and code by ahkamboh || Ali Hamza Kamboh
 
  DESKTOP VEIW
 
-![DESKTOP VEIW](https://user-images.githubusercontent.com/123060177/227790216-7156cf5f-1931-4736-b41c-a09a414865ee.png)
+![DESKTOP VEIW](https://github.com/ahkamboh/Shoping-E-commerce-Webiste/assets/123060177/0071ef86-2389-488f-a89e-df9b02ec38bc)
+
+<!-- ![DESKTOP VEIW](https://user-images.githubusercontent.com/123060177/227790216-7156cf5f-1931-4736-b41c-a09a414865ee.png) -->
 
 Mobile view
 
